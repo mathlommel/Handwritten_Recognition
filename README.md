@@ -1,5 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/jPcQNmHU)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=14965960&assignment_repo_type=AssignmentRepo)
 # Handwriting Recognition
 ## 1 - Context
 In this project, we are going to train a neural network in order to recognize words from handwritten data. The input dataset is composed of labelled images (that one can find in the "Inputs" folder, or via this [link](https://www.kaggle.com/code/samfc10/handwriting-recognition-using-crnn-in-keras/input)). The data is composed of 2 types of files : .zip files containing the images, and .csv files linking the images to their label. The folder "Inputs" is then composed of the 3 .csv files, as well as 3 sub-folders, which correspond to the extracted .zip files. 
